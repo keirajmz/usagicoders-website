@@ -6,3 +6,73 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body{
+    background-color: #0c479e;
+    font-family: Arial, sans-serif;
+}
+
+header{
+    background-color: #041d42;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 60px;
+}
+
+nav div:last-child{ 
+    display: flex;
+    gap: 30px;
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+nav a:hover{
+    color: #468df7;
+}
+
+nav img{
+    width: 220px;
+}
+
+p{
+    color: white;
+}
+
+.hero{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    width: 100%;
+    max-width:1200px;
+
+    margin: auto;
+
+    padding: 80px 45px;
+}
+
+.hero-texto{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 50%;
+
+}
+
+.hero-imagen{
+    width: 50%;
+}
+
+.hero-imagen img{
+    width: 100%;
+    max-width: 350px;
+    transform: rotate(5deg);
+}
