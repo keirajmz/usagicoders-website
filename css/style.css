@@ -31,7 +31,7 @@ nav div:last-child{
 nav a{
     color: white;
     text-decoration: none;
-    font-size: 20px;
+    font-size: 14px;
 }
 
 nav a:hover{
@@ -39,7 +39,8 @@ nav a:hover{
 }
 
 nav img{
-    width: 220px;
+    width: 200px;
+    min-width: 150px;
 }
 
 p{
@@ -69,10 +70,20 @@ p{
 
 .hero-imagen{
     width: 50%;
+    position: relative;
 }
 
-.hero-imagen img{
+.hero-imagen img{ /*pa modificar todas las img del hero */
     width: 100%;
-    max-width: 350px;
-    transform: rotate(5deg);
+}
+
+.conejo{
+    max-width: 300px;
+    position: absolute;
+    top: 1px;
+}
+
+.comunidad-rosa{
+    max-width: 300px;
+    position: absolute;
 }
