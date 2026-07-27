@@ -7,7 +7,7 @@
 4. Subir los cambios a GitHub.
 5. No borrar archivos de otros integrantes sin avisar.
 
-Recuerden que pueden experimentar siempre y cuando sea en sus ramas para evitar afectar a las demas en caso de romper algo. No olviden hacer git pull como buen habito. Pueden hacer la cantidad de commits que sean necesarias, no tienen que tener terminada toda su sección ya que el proposito de tenerlo en github es llevar un control de versiones.
+Recuerden que pueden experimentar siempre y cuando sea en sus ramas para evitar afectar a las demas en caso de romper algo. No olviden hacer `git pull` como buen habito. Pueden hacer la cantidad de commits que sean necesarias, no tienen que tener terminada toda su sección ya que el proposito de tenerlo en github es llevar un control de versiones.
 
 
 
@@ -35,7 +35,7 @@ usagsicode-website\
 Es la página principal. Aquí se encuentran las secciones de Inicio, quienes somos (nosotros), quién puede unirse y qué encontrarás.
 
 Dejé asignada cada "section", asi que podran hacer las modificaciones que sean necesarias unicamente en los section que le corresponda a cada una.
-![Estructura del proyecto](assets/documentation/index-sections.png)
+![Secciones en index.html](assets/documentation/index-sections.png)
 
 ### **equipo.html**
 Página en donde se muestran los integrantes del equipo fundador.
@@ -46,10 +46,10 @@ Se puede agregar:
 
 ### **css/style.css**
 Contiene losa estilos visuales de la página, támbien deje asignado el área en donde cada una puede editar. 
-![Estructura del proyecto](assets/documentation/css.png)
+![Secciones en style.css](assets/documentation/css.png)
 
 En configuración general se encuentra el color de fondo de la página y las tipografias, asi que cualquier cambio realizado en esa seccion afecta al estilo de TODA la página, tanto index.html como equipo.html. \
-⚠️ Consultar con el grupo en caso de tener la necesidad o querer modificar esa sección.
+> ⚠️ Consultar con el grupo en caso de tener la necesidad o querer modificar esa sección.
 
 ### **assets/**
 Contiene todas las imágenes que se necesitan en la pagina (iconos, adornos, imagenes de fondos, etc.)
