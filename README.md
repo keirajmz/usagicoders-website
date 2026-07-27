@@ -32,13 +32,14 @@ usagsicode-website\
 │\
 └── README.md           ← Documentación del proyecto\
 
-![Estructura del proyecto](assets/documentation/estructura.png)
+<img src="assets/documentation/estructura.png" width = "200">
 
 ### **index.html**
 Es la página principal. Aquí se encuentran las secciones de Inicio, quienes somos (nosotros), quién puede unirse y qué encontrarás.
 
 Dejé asignada cada "section", asi que podran hacer las modificaciones que sean necesarias unicamente en los section que le corresponda a cada una.
-![Secciones en index.html](assets/documentation/index-sections.png)
+
+<img src="assets/documentation/index-sections.png" width = "350">
 
 ### **equipo.html**
 Página en donde se muestran los integrantes del equipo fundador.
