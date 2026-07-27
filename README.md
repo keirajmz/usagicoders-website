@@ -1,6 +1,6 @@
 # usagicoders-website
 
-## **Reglas **
+## **Reglas**
 1. No modificar directamente la rama `main`.
 2. Crear una rama para cada funcionalidad/persona tomando como base la rama develop.
 3. Hacer commits con mensajes descriptivos sobre los cambios que realicen.
@@ -25,14 +25,17 @@ usagsicode-website\
 │\
 ├── assets/\
 │   ├── images/         ← Imágenes\
-│   └── ...\
+│   └── documentation/  ← Imágenes de la documentacion\
 │\
 └── README.md           ← Documentación del proyecto\
+
+![Estructura del proyecto](assets/documentation/estructura.png)
 
 ### **index.html**
 Es la página principal. Aquí se encuentran las secciones de Inicio, quienes somos (nosotros), quién puede unirse y qué encontrarás.
 
 Dejé asignada cada "section", asi que podran hacer las modificaciones que sean necesarias unicamente en los section que le corresponda a cada una.
+![Estructura del proyecto](assets/documentation/index-sections.png)
 
 ### **equipo.html**
 Página en donde se muestran los integrantes del equipo fundador.
@@ -43,6 +46,7 @@ Se puede agregar:
 
 ### **css/style.css**
 Contiene losa estilos visuales de la página, támbien deje asignado el área en donde cada una puede editar. 
+![Estructura del proyecto](assets/documentation/css.png)
 
 En configuración general se encuentra el color de fondo de la página y las tipografias, asi que cualquier cambio realizado en esa seccion afecta al estilo de TODA la página, tanto index.html como equipo.html. \
 ⚠️ Consultar con el grupo en caso de tener la necesidad o querer modificar esa sección.
